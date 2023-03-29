@@ -1,0 +1,9 @@
+https://www.dafont.com/pt/search.php?q=freshman
+
+fontsquirrel converte fonte ttf em woff
+https://www.fontsquirrel.com/tools/webfont-generator
+
+
+gerador de css3
+https://css3generator.com/
+
