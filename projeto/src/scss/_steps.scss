@@ -10,12 +10,22 @@
     flex-direction: row;
 
     &__item {
-        margin: 1rem;
-        width: calc(80% / 5 - 1rem);
-        text-align: center;
-        span {
-            color: $color-secondary;
+        margin: 2rem;
+        width: calc(90% / 4- 1rem);
+        text-align: center;        
+        
+        h3{
+            font-size: 2rem;
         }
+    }
+
+    &__rot-left {
+        -webkit-animation: rot-left 2.5s cubic-bezier(0.645, 0.045, 0.355, 1.000) both;
+                animation: rot-left 2.5s cubic-bezier(0.645, 0.045, 0.355, 1.000) both;
+    }
+
+    &__img{
+        width: 250px;
     }
 
 }

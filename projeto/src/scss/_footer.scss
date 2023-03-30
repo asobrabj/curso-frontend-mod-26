@@ -1,4 +1,5 @@
 footer {
+    
     p {
         color: $font-color-primary;
         font-size: $font-size-default;
@@ -6,4 +7,16 @@ footer {
             color: $color-secondary;
         }
     }
+
+   
+}
+
+.contato{
+    float: left; 
+    width: 50%;
+}
+
+.localizacao{
+    float: right; 
+    width: 50%;
 }

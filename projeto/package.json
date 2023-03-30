@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asobrabj/curso-frontend-mod-25.git"
+    "url": "git+https://github.com/asobrabj/curso-frontend-mod-26.git"
   },
   "keywords": [],
   "author": "J.Barbosa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/asobrabj/curso-frontend-mod-25/issues"
+    "url": "https://github.com/asobrabj/curso-frontend-mod-26/issues"
   },
-  "homepage": "https://github.com/asobrabj/curso-frontend-mod-25",
+  "homepage": "https://github.com/asobrabj/curso-frontend-mod-26",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
